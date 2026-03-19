@@ -4,26 +4,32 @@ Mi chiamo Marco, ho 41 anni e lavoro come architetto libero professionista. Mi o
 In quel momento ho pensato che forse il drone non era solo “un di più”. Da lì ho iniziato a informarmi meglio, sia sulla parte tecnica che sulle normative. E ho scoperto che, per lavorare vicino a edifici e in contesti urbani, serviva il patentino A2. A quel punto ho deciso di prenderlo. Non è stato complicato studiare per i [quiz drone a2](https://www.easy-quizzz.com/it/quiz-patente/quiz-pilota-drone/quiz-patentino-drone-a2/quiz.html) ma richiede un minimo di organizzazione.
 
 ## Una panoramica generale su esame e quiz drone A2
+
 Il patentino A2 rientra nella **normativa europea EASA** e fa parte della categoria Open. In pratica permette di lavorare in situazioni un po’ più complesse rispetto al livello base A1/A3, mantenendo comunque alcune limitazioni.
 L’esame è composto da **30 domande a risposta multipla**. Per superarlo bisogna fare almeno il 75% corretto, quindi **23 risposte giuste** come minimo. Il tempo a disposizione è di solito tra i **40 e i 60 minuti**. Gli argomenti riguardano soprattutto la meteorologia applicata al volo, le prestazioni e i limiti del drone e la gestione dei rischi. Sono tutte cose molto concrete, legate alla sicurezza.
 Prima di accedere all’A2 bisogna **avere il certificato A1/A3** e dichiarare un **minimo di pratica** con il drone. Io avevo già fatto qualche prova, ma niente di particolarmente avanzato. I quiz drone A2 si possono fare online oppure in presenza. Io ho scelto online, semplicemente perché era più gestibile con il lavoro.
 
 ## Manuale utile, ma da solo non basta
+
 Per iniziare ho scaricato un **manuale per il patentino A2** da fonti ufficiali. È fatto bene, spiega in modo chiaro tutta la parte teorica. Dopo qualche giorno però mi sono accorto che leggere non era sufficiente. Quando provavo alcune domande online, sbagliavo più di quanto mi aspettassi. Soprattutto quelle domande un po’ più “pratiche”, dove non basta ricordare la regola ma bisogna applicarla.
 A quel punto ho capito che dovevo allenarmi proprio sul formato dell’esame. Cercando un simulatore di quiz drone A2 ho trovato  [Easy Quizzz](https://www.easy-quizzz.com/it/) e ho iniziato a usarlo.
 
 ## Perché ho iniziato a usare Easy Quizzz
+
 La cosa utile di questa app è che puoi fare **simulazioni simili all’esame**: stesso numero di domande, stesso tempo. Ti abitui subito al ritmo. Oppure puoi **lavorare per materia**. Io lo facevo spesso: studiavo un argomento e subito dopo facevo i quiz solo su quello. Se sbagliavo, tornavo sulla teoria.
 Le spiegazioni delle risposte sono state fondamentali. Non è solo giusto o sbagliato, ma capisci il ragionamento. In più c’è il sistema che tiene traccia dei progressi. Vedere che i risultati migliorano nel tempo è motivante, soprattutto quando studi dopo una giornata di lavoro.
 
 ## Il metodo che ho seguito per prepararmi ai quiz drone A2
+
 Ho preparato l’esame in circa un mese, dedicando più o meno un’ora al giorno. Facevo sempre così: prima un po’ di teoria dal manuale, poi subito quiz drone A2. All’inizio solo per materia. Poi, quando ho iniziato a sentirmi più sicuro, ho inserito le simulazioni complete.
 Le prime volte quattro o cinque al giorno, poi sempre di più. Nell’ultima settimana arrivavo anche a nove o dieci simulazioni. Nel frattempo facevo anche pratica con il drone, documentando tutto quanto.
 Per quanto riguarda le simulazioni, esistono delle alternative come **dronesimulator.it** con un database di circa 500 domande e  app come **Quiz Droni A2** su iOS. Io e ho aperte per confronti e sono valide. Però poche combinano simulazioni personalizzabili (numero e tempo decisi da te), spiegazioni sempre presenti (giuste/sbagliate), grafico progressi e offline. Per chi come me studia in baita o in macchina tra un gruppo e l’altro, Easy Quizzz resta il più completo e affidabile.
 
 ## Risultato quiz drone: 27/30
+
 Il giorno dell’esame ero abbastanza tranquillo. Dopo tutte le simulazioni, avevo preso confidenza con il tipo di domande. Molte erano molto simili a quelle che avevo già visto, quindi sono riuscito a gestire bene il tempo e a rispondere senza troppi dubbi. Ho concluso la prova senza problemi e ho superato l’esame al primo tentativo con un bel **27/30**, meglio dei voti che prendevo all'università.
 Oggi utilizzo il drone soprattutto per documentare lo stato degli edifici e dei cantieri. Le immagini dall’alto sono utilissime: permettono di controllare coperture, facciate e punti difficili da raggiungere senza perdere tempo. In più le uso anche per presentare i progetti ai clienti. Vedere tutto dall’alto aiuta molto a capire l’intervento nel suo contesto.
 
 ## Il consiglio che darei a chi sta studiando ora
+
 Se stai pensando di prendere il patentino A2, non limitarti alla teoria. Il manuale è fondamentale, ma non basta. I quiz drone A2 sono la parte più importante, perché ti abituano al tipo di domande. Puoi anche affiancare altri strumenti, come dronesimulator.it o alcune app, giusto per avere più varietà. All’inizio si sbaglia, è normale. Poi però inizi a migliorare. Posso dire che è un esame assolutamente alla portata. Anche partendo da zero.
