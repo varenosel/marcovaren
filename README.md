@@ -1,5 +1,3 @@
-# marcovaren
-
 #Quiz drone A2: come ho il patentino preso per integrare i droni nel mio lavoro di architetto
 
 Mi chiamo Marco, ho 41 anni e lavoro come architetto libero professionista. Mi occupo principalmente di ristrutturazioni e progettazione di edifici residenziali. Negli ultimi anni ho iniziato a vedere sempre più colleghi usare il drone in cantiere. All’inizio lo consideravo una cosa interessante, ma non indispensabile. Poi mi è capitato di dover verificare lo stato di una copertura abbastanza difficile da raggiungere: tra ponteggi, tempi e costi, è diventata una perdita di tempo notevole. 
